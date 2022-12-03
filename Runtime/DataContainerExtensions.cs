@@ -1,3 +1,5 @@
+using UnityEngine;
+
 namespace com.gbviktor.DataContainer
 {
     public static class DataContainerExtensions
