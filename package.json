@@ -1,0 +1,13 @@
+{
+    "name": "com.gbviktor.data-container-for-unity",
+    "displayName": Data Container for Unity",
+    "author": { "name": "Victor Bisterfeld", "url": "https://gbviktor.de/data-container-for-unity" },
+    "version": "1.0.1-exp.1",
+    "unity": "2022.1",
+    "description": "Data Container: help you to link/combine different types together and access it easier.",
+    "keywords": [ "tool", "runtime"],
+    "license": "MIT",
+    "category": "Manager",
+    "dependencies": {
+    }
+}
