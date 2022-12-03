@@ -1,14 +1,23 @@
 {
-    "name": "com.gbviktor.ui-manager-for-unity.EditorTests",
+    "name": "com.gbviktor.data-container-for-unity.EditorTests",
+    "rootNamespace": "",
     "references": [
-        "UnityEditor.UI",
-        "UnityEngine.UI"
-    ],
-    "optionalUnityReferences": [
-        "TestAssemblies"
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
     ],
     "includePlatforms": [
         "Editor"
     ],
-    "excludePlatforms": []
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
 }

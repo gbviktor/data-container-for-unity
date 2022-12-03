@@ -1,7 +1,7 @@
 {
-    "name": "com.gbviktor.ui-manager-for-unity.Tests",
+    "name": "com.gbviktor.data-container-for-unity.Tests",
+    "rootNamespace": "",
     "references": [
-        "UnityEngine.UI",
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner"
     ],
@@ -16,22 +16,6 @@
     "defineConstraints": [
         "UNITY_INCLUDE_TESTS"
     ],
-    "versionDefines": [
-        {
-            "name": "com.unity.modules.physics",
-            "expression": "1.0.0",
-            "define": "PACKAGE_PHYSICS"
-        },
-        {
-            "name": "com.unity.modules.physics2d",
-            "expression": "1.0.0",
-            "define": "PACKAGE_PHYSICS2D"
-        },
-        {
-            "name": "com.unity.modules.animation",
-            "expression": "1.0.0",
-            "define": "PACKAGE_ANIMATION"
-        }
-    ],
+    "versionDefines": [],
     "noEngineReferences": false
 }

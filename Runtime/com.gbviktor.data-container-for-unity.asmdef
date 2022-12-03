@@ -1,8 +1,7 @@
 {
-    "name": "com.gbviktor.ui-manager-for-unity",
-    "references": [
-        "UnityEngine.UIElementsModule"
-    ],
+    "name": "com.gbviktor.data-container-for-unity",
+    "rootNamespace": "",
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
@@ -10,32 +9,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": [
-        {
-            "name": "com.unity.modules.physics",
-            "expression": "1.0.0",
-            "define": "PACKAGE_PHYSICS"
-        },
-        {
-            "name": "com.unity.modules.physics2d",
-            "expression": "1.0.0",
-            "define": "PACKAGE_PHYSICS2D"
-        },
-        {
-            "name": "com.unity.modules.tilemap",
-            "expression": "1.0.0",
-            "define": "PACKAGE_TILEMAP"
-        },
-        {
-            "name": "com.unity.modules.animation",
-            "expression": "1.0.0",
-            "define": "PACKAGE_ANIMATION"
-        },
-        {
-            "name": "com.unity.modules.uielements",
-            "expression": "1.0.0",
-            "define": "PACKAGE_UITOOLKIT"
-        }
-    ],
+    "versionDefines": [],
     "noEngineReferences": false
 }
