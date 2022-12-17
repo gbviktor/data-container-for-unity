@@ -30,7 +30,7 @@ private void renderNotifications(IData data){
 
 ## Getting Started
 
->Implement interface ` IData ` inside your Types, what you like to linke/attach together
+>Implement interface ` IData ` inside your Types, what you like to bind/link/attach together
 
 > Important! 
 > Initialize once your data container before attach other objects, like:
@@ -44,7 +44,7 @@ user.Attach(new GameSettings());
 ## How to get/link/attach interface ?
 
 ```csharp
-data.Attach<ISomeInterface>(YourNormalClass);
+data.Attach<ISomeInterface>(objectOfSomeClass);
 ```
 
 ## How to get/link/attach base class ?
