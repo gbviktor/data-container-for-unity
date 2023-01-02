@@ -6,7 +6,7 @@ This package help you combine Data/Types together and make it easy to access lik
 - in Unity go to *Windows > Package Manager*
 - press ` + ` and select ` Add package from git URL...`
 ```cmd
-https://github.com/gbviktor/ui-manager-for-unity.git
+https://github.com/gbviktor/data-container-for-unity.git
 ```
 
 Perfect way to combine/link different types/classes of User Data and access it simply, for Example:  
