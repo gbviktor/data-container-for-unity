@@ -1,6 +1,14 @@
 # Data Container for Unity (Experimental)
 This package help you combine Data/Types together and make it easy to access like one object.  
 *(yes, this is something's what look like a Resource Locator)*
+
+## Install with Unity Package Manager
+- in Unity go to *Windows > Package Manager*
+- press ` + ` and select ` Add package from git URL...`
+```cmd
+https://github.com/gbviktor/ui-manager-for-unity.git
+```
+
 Perfect way to combine/link different types/classes of User Data and access it simply, for Example:  
 - (Actual way) if you fetch *UserProfile*, *Garage*, *Notifications*, *GameSettings* from Backend Server
 > Normally, you will be create a wrapper class with fields like:
