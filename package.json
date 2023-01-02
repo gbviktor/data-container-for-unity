@@ -1,6 +1,6 @@
 {
     "name": "com.gbviktor.data-container-for-unity",
-    "displayName": "Data Container for Unity",
+    "displayName": "Data Container",
     "author": { "name": "Victor Bisterfeld", "url": "https://gbviktor.de/data-container-for-unity" },
     "version": "1.0.1-exp.1",
     "unity": "2022.1",
